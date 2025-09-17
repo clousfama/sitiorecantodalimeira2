@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/admin/blocked-dates/[id]":{},"/api/admin/reservations/conflicts":{},"/api/admin/blocked-dates":{},"/api/admin/stats":{},"/api/auth/[...nextauth]":{},"/api/contact":{},"/api/reservations/[id]":{},"/api/reservations/available-dates":{},"/api/reservations":{}}}

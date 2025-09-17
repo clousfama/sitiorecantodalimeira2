@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/admin/auto-sync/route": "app/api/admin/auto-sync/route.js",
+  "/api/admin/reservations/route": "app/api/admin/reservations/route.js",
+  "/api/admin/sync-airbnb/route": "app/api/admin/sync-airbnb/route.js",
+  "/api/signup/route": "app/api/signup/route.js",
+  "/api/video/hero/route": "app/api/video/hero/route.js",
+  "/page": "app/page.js",
+  "/api/admin/blocked-dates/[id]/route": "app/api/admin/blocked-dates/[id]/route.js",
+  "/api/admin/stats/route": "app/api/admin/stats/route.js",
+  "/api/admin/blocked-dates/route": "app/api/admin/blocked-dates/route.js",
+  "/api/admin/reservations/conflicts/route": "app/api/admin/reservations/conflicts/route.js",
+  "/api/reservations/[id]/route": "app/api/reservations/[id]/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/reservations/available-dates/route": "app/api/reservations/available-dates/route.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/api/reservations/route": "app/api/reservations/route.js",
+  "/admin/login/page": "app/admin/login/page.js"
+}
