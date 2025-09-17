@@ -4,11 +4,6 @@
   "buildCommand": "npm install --legacy-peer-deps && npm run build",
   "installCommand": "npm install --legacy-peer-deps",
   "outputDirectory": ".next",
-  "functions": {
-    "app/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
   "env": {
     "SKIP_ENV_VALIDATION": "1"
   }
